@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+subprocess-run
+sqlite3
+pydantic
